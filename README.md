@@ -1,2 +1,2 @@
 # TejasAI
-That is ChatBot. You can question anyone
+That is ChatBot. You can question anyone. Simple AIbot
