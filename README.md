@@ -54,12 +54,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/tejaslimbad735/TejasAI.git
 
-
-
-
-
-
-
+🖥️DEMO # 
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/a5e0a5ce-6f94-4d38-ae91-ffc14dba1ceb" />
   
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/c67a7af0-1ec4-4932-9c8a-65ec7105deb3" />
