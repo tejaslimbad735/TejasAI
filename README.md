@@ -45,6 +45,11 @@ The main goal of this project is to develop a chatbot that can:
 4. The chatbot displays the reply in the chat window instantly.
 
 ---
+teminal install & setup 
+
+1. pip install google-generativeai
+2. python GeminiChat.py
+---
 
  🖥️ Installation & Setup
 
@@ -52,7 +57,7 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/tejaslimbad735/TejasAI.git
+   git clone https://github.com/tejaslimbad735/TejasAI.git   
 
 
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/a5e0a5ce-6f94-4d38-ae91-ffc14dba1ceb" />
