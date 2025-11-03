@@ -59,7 +59,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/tejaslimbad735/TejasAI.git
 ---     
-User interface
+# User interface
 
 <img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/a5e0a5ce-6f94-4d38-ae91-ffc14dba1ceb" />
   
